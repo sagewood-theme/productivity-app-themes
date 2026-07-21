@@ -1,0 +1,40 @@
+.theme-dark {
+  /* Main Canvas Background & Workspace Containers */
+  --bg-primary: #2d3833 !important;
+  --bg-primary-alt: #222a26 !important;
+  --background-primary: #2d3833 !important;
+  --background-primary-alt: #222a26 !important;
+
+  /* Sidebars, Ribbons, & Inactive Containers */
+  --bg-secondary: #222a26 !important;
+  --bg-secondary-alt: #1a201d !important;
+  --background-secondary: #222a26 !important;
+  --background-secondary-alt: #1a201d !important;
+
+  /* App Headers, Titlebars, & Top Navigation Blocks */
+  --titlebar-background: #222a26 !important;
+  --titlebar-background-focused: #222a26 !important;
+  --tab-container-background: #222a26 !important;
+  --tab-background-active: #2d3833 !important;
+
+  /* Typography Colors */
+  --text-normal: #d2ded7 !important;
+  --text-muted: #677a70 !important;
+  --text-faint: #526159 !important;
+  --text-accent: #8da7b3 !important;
+
+  /* Selections, Highlights, & Active Interactivity UI */
+  --text-selection: #d2ded7 !important;
+  --bg-selection: #3b4a43 !important;
+  --interactive-accent: #a8b59b !important;
+  --interactive-hover: #3b4a43 !important;
+  --scrollbar-thumb-bg: #3b4a43 !important;
+
+  /* Markdown Content Accents */
+  --h1-color: #d99c82 !important;
+  --h2-color: #a8b59b !important;
+  --h3-color: #8da7b3 !important;
+  --code-background: #222a26 !important;
+  --code-normal: #d2ded7 !important;
+  --code-comment: #677a70 !important;
+}
