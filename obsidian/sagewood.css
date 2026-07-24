@@ -37,4 +37,18 @@
   --code-background: #222a26 !important;
   --code-normal: #d2ded7 !important;
   --code-comment: #677a70 !important;
+
+  /* Markdown Content Accents */
+  --h1-color: #d99c82 !important;
+  --h2-color: #a8b59b !important;
+  --h3-color: #8da7b3 !important;
+  --code-background: #222a26 !important;
+  --code-normal: #d2ded7 !important;
+  --code-comment: #677a70 !important;
+
+  --table-background: #2d3833 !important;
+  --table-row-alt-background: #2d3833 !important;
+  --table-border-color: #d2ded7 !important;
+  --table-header-background: #2d3833 !important;
+  --table-header-border-color: #d2ded7 !important;
 }
